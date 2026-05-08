@@ -4,7 +4,7 @@ A professional Streamlit web app for real-time stock analysis and LSTM-based pri
 
 **Built by:** Amrit Jha | B.Tech 3rd Year (CSE - AI & ML)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -24,22 +24,22 @@ A professional Streamlit web app for real-time stock analysis and LSTM-based pri
 ## 📸 Screenshots
 
 ### 🏠 Dashboard & Key Metrics
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### 📉 Price & Volume History
-![Price Volume](screenshots/price_volume.png)
+![Price Volume](Screenshots/price_volume.png)
 
 ### 📈 Moving Averages (10 / 20 / 50 Day)
-![Moving Averages](screenshots/moving_averages.png)
+![Moving Averages](Screenshots/moving_averages.png)
 
 ### ⚡ Daily Returns & Risk Analysis
-![Risk Analysis](screenshots/risk_analysis.png)
+![Risk Analysis](Screenshots/risk_analysis.png)
 
 ### 🤖 LSTM Price Prediction + Forecast Table
-![Prediction](screenshots/prediction.png)
+![Prediction](Screenshots/prediction.png)
 
 ### 📆 30-Day Forecast Chart
-![Forecast Chart](screenshots/forecast_chart.png)
+![Forecast Chart](Screenshots/forecast_chart.png)
 
 ---
 
